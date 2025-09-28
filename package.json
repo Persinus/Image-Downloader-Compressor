@@ -1,0 +1,22 @@
+{
+  "name": "com.persinus.imagedownloadercompressor",
+  "version": "1.0.0",
+  "displayName": "Persinus Image Downloader & Compressor",
+  "description": "Download images from any URL, automatically compress to JPG, and import into Unity with progress feedback and mini-toast notifications.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Persinus",
+    "url": "https://github.com/Persinus"
+  },
+  "keywords": [
+    "image",
+    "downloader",
+    "compressor",
+    "unity",
+    "jpg",
+    "optimization",
+    "mini-toast",
+    "progress bar"
+  ],
+  "license": "MIT"
+}
