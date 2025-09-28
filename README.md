@@ -16,7 +16,7 @@ A **Unity Editor Tool** for downloading images from URLs and automatically compr
 3. Paste the following URL:  
 
 ```bash
-https://github.com/Persinus/persinus-image-downloader-compressor.git
+https://github.com/Persinus/Image-Downloader-Compressor
 ```
 
 ---
